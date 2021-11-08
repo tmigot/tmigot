@@ -2,7 +2,7 @@
 
 ---
 
-![Abel Siqueira's github stats](https://github-readme-stats.vercel.app/api?username=tmigot&show_icons=true&theme=radical)
+![Tangi Migot's github stats](https://github-readme-stats.vercel.app/api?username=tmigot&show_icons=true&theme=radical&hide=stars)
 
 ## Postdoc <small>at Polytechnique Montreal and IVADO</small>
 
