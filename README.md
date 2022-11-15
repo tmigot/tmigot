@@ -18,12 +18,14 @@ I am an active developer of packages inside the JuliaSmoothOptimizers organizati
 
 Some of our main packages:
 
-- [**PDENLPModels.jl**](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl): A NLPModel API for optimization problems with PDE-constraints.
-- [**DCISolver.jl**](https://github.com/JuliaSmoothOptimizers/DCISolver.jl): an optimization solver using the dynamic control of infeasibility method.
+- [**PDENLPModels.jl**](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl): A NLPModel API for optimization problems with PDE-constraints;
+- [**DCISolver.jl**](https://github.com/JuliaSmoothOptimizers/DCISolver.jl): an optimization solver using the dynamic control of infeasibility method;
+- [**AdaptiveRegularization.jl**](https://github.com/JuliaSmoothOptimizers/AdaptiveRegularization.jl): A unified efficient implementation of trust-region type algorithms for unconstrained optimization;
+- [**FletcherPenaltySolver.jl**](https://github.com/JuliaSmoothOptimizers/FletcherPenaltySolver.jl): Fletcher's penalty method for nonlinear optimization models.
 
 ---
 
-I am also actively working on [**Stopping.jl**](https://github.com/vepiteski/Stopping.jl): a new framework to implement iterative algorithms. Check out the [docs](https://vepiteski.github.io/Stopping.jl/dev/) that contains plenty of tutorials and examples.
+I am also actively working on [**Stopping.jl**](https://github.com/SolverStoppingJulia/Stopping.jl): a new framework to implement iterative algorithms. Check out the [docs](https://SolverStoppingJulia.github.io/Stopping.jl/dev/) that contains plenty of tutorials and examples.
 
 ---
 
