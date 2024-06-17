@@ -4,7 +4,7 @@
 
 ![Tangi Migot's github stats](https://github-readme-stats.vercel.app/api?username=tmigot&show_icons=true&theme=radical&hide=stars)
 
-## Computational Mathematician
+## Computational Scientist
 
 ... specializing in solving challenging mathematical problems and their practical applications.
 I use optimization in diverse applications such as game theory and geochemistry.
